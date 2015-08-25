@@ -11,7 +11,10 @@ short-description: A remake of Pong
 
 A remake of the classical game Pong.
 
-A live demo is available on Heroku: [Pong](my-little-pong-game.herokuapp.com).  
+![Pong]({{ site.baseurl }}/img/pong02.png)
+![Pong]({{ site.baseurl }}/img/pong03.png)
+
+A live demo is available on Heroku: [Pong](http://my-little-pong-game.herokuapp.com).  
 The source code is available on Github: [Pong](https://github.com/amizony/pong).
 
 
