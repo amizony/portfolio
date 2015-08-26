@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pong
-feature-img: "img/pongvict.png"
+feature-img: "img/ponghead.png"
 thumbnail-path: "img/pongthumb.png"
 short-description: A remake of Pong
 
