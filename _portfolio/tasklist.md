@@ -26,13 +26,15 @@ I opted for a to-do list because I was interested in the storing of the tasks fo
 I used Angularjs as base framework to improve my knowledge of it's architecture and to allow me to simply make a single page application.
 I used then Firebase as Backend to store my tasks.
 
+The objective of this project was to be able to do an entire application on my own.
 
 # Features
 
-Over the simple ability to add tasks and mark them as complete, I added other:
+Over the simple ability to add tasks and mark them as complete, I added others:
 
 * Tasks can be added with a priority
 * Tasks expire if not completed within one week
 * The History allow to see completed and expired tasks
 * Tasks are persistent and stored on-line
 * Each user has the possibility to have his own account
+* Single page application
