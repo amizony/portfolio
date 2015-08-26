@@ -2,7 +2,7 @@
 layout: post
 title: To-do List
 feature-img: "img/tasklisthead.png"
-thumbnail-path: "https://d13yacurqjgara.cloudfront.net/users/3217/screenshots/1686132/webflow_landingpage_1x.jpg"
+thumbnail-path: "img/tasklistthumb.png"
 short-description: A self destructive task list
 
 ---
