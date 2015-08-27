@@ -7,7 +7,7 @@ short-description: A remake of Pong
 
 ---
 
-# Description
+## Description
 
 A remake of the classical game Pong.
 
@@ -18,7 +18,7 @@ A live demo is available on Heroku: [Pong](http://my-little-pong-game.herokuapp.
 The source code is available on Github: [Pong](https://github.com/amizony/pong).
 
 
-# Context
+## Context
 
 For the third application I made, I wanted to 'go back to the basics', and make an application with as few helpers, libraries or frameworks as possible.
 The idea behind it, was to learn how things really works, and be able to understand them and make them myself.
@@ -27,7 +27,7 @@ So I used only HTML, css and javascript. And for this exercise, I choose to do a
 Beyond making the application working, the first objective was to produce the cleanest code as possible. Then the second one was to make a game that is actually fun to play.
 
 
-# Features
+## Features
 
 Because there are already thousands of remakes for this game, on top of the basic game, I added some specials features to make it more personal:
 

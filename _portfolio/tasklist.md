@@ -7,7 +7,7 @@ short-description: A self destructive task list
 
 ---
 
-# Description
+## Description
 
 A to-do list application where each task has an expiration time and should be completed before.
 
@@ -19,7 +19,7 @@ A live demo is available on Heroku: [To-do-list](http://my-little-task-list.hero
 The source code is available on Github: [To-do-list](https://github.com/amizony/self-destructing-task-list).
 
 
-# Context
+## Context
 
 For my second application, I wanted to do one of the classical application every developer should be able to do.
 I opted for a to-do list because I was interested in the storing of the tasks for their persistence.  
@@ -28,7 +28,7 @@ I used then Firebase as Backend to store my tasks.
 
 The objective of this project was to be able to do an entire application on my own.
 
-# Features
+## Features
 
 Over the simple ability to add tasks and mark them as complete, I added others:
 
