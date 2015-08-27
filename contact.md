@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-feature-img: "img/sample_feature_img.png"
+feature-img: "img/sphere.png"
 permalink: /contact/
 ---
 <div>
