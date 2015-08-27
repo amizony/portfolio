@@ -32,7 +32,7 @@ Here is what's the application has:
 
 * A collection of albums
 * One page for each album
-* A single page application
 * The possibility to play music
 * A player bar with sliders
 * Some control over the songs played (volume, time, previous or next song)
+* And it's a single page application

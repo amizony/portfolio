@@ -38,4 +38,7 @@ Because there are already thousands of remakes for this game, on top of the basi
 * The possibility to add an effect to the ball with the paddle movement
 
 
-Using a vectorial ball speed was a way to avoid the brutal speed change of the ball when the bouncing angle is changed. Although it was adding challenge (and thus fun to the game), it had nothing to do with *real physics*. So when changing this and using a real bouncing angle, the game lose all it's interest. That's the reason why I introduce the effects on the ball with the paddle's movements.
+Using a vectorial ball speed was a way to avoid the brutal speed change of the ball when the bouncing angle is changed (like in the original game).
+Although it was adding challenge (and thus fun to the game), it had nothing to do with *real physics*.
+So when changing this and using a real bouncing angle, the game lost all it's interest.
+To counter it, I introduced the possibility to add an effect on the ball with the paddle's movements, influencing the bouncing angle and the ball speed.
