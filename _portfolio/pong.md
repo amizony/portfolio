@@ -35,7 +35,7 @@ Because there are already thousands of remakes for this game, on top of the basi
 * Two players mode
 * Several AI difficulty level
 * Ball speed calculated vectorially
-* The possibility to add an effect to the ball with the paddle movement
+* Paddle's movement influencing the bounce
 
 
 Using a vectorial ball speed was a way to avoid the brutal speed change of the ball when the bouncing angle is changed (like in the original game).
