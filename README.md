@@ -1,15 +1,7 @@
-# Portfolio Iro Theme
-## Based on Type Theme
+# Portfolio
 
-![Default Type Theme blog](https://bloc-global-assets.s3.amazonaws.com/portfolio/portfolio-iro.png)
+This is my portfolio
 
-A free and open-source [Jekyll](http://jekyllrb.com) theme. Great for blogs and easy to customize.
+Demo is available: [Portfolio](http://amizony.github.io/portfolio/index.html#/)
 
-## Get Started
-
-[Demo](https://rohanchandra.github.io/type-theme/)
-
-[Using Type](https://rohanchandra.github.io/project/type/)
-
-## License
-The MIT License (MIT)
+It is base on a open-source [Jekyll](http://jekyllrb.com) theme.
