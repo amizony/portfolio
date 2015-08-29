@@ -4,24 +4,29 @@ layout: default
 
 <div class="home">
   {% if site.theme.header_text %}
-  <div class="call-out" 
+  <div class="call-out"
   style="background-image: url('{{ site.baseurl }}/{{ site.theme.header_text_feature_image }}')">
     {{ site.theme.header_text }}
   </div>
   {% endif %}
 
   <div class="work">
+    <div>
+      Hello! My name is Adrien, I'm a recent graduate from the <a href="https://www.bloc.io/resources/frontend-technologies-used">Bloc.io</a> Front-end Development Apprenticeship Program.<br><br>
+      I enjoy solving problem and see in developing web application a great way to practice it. I currently live in Germany and available for full-time employment (in Berlin) or remote contract work.
+      <br>
+    </div>
     <h2>My Work</h2>
-    {% for project in site.portfolio limit:3 %}
+    {% for project in site.portfolio limit:5 %}
         <li>
-          <img src="{{ project.thumbnail-path }}" alt="{{ project.title }}"/>
+          <a href="{{ project.url }}"><img src="{{ project.thumbnail-path }}" alt="{{ project.title }}"/></a>
           <a href="{{ project.url }}">{{ project.title }}</a>
           <p>{{ project.short-description }}</p>
         </li>
     {% endfor %}
   </div>
 
-  <div class="posts">
+  <!--div class="posts">
     <h2>My Posts</h2>
     {% for post in paginator.posts %}
     <div class="post-teaser">
@@ -43,7 +48,7 @@ layout: default
       </div>
     </div>
     {% endfor %}
-  </div>
+  </div-->
 
   {% if paginator.total_pages > 1 %}
   <div class="pagination">
